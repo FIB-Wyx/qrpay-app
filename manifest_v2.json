@@ -1,0 +1,29 @@
+{
+  "item": {
+    "id": "com.vela.qrpay",
+    "restype": "quick_app",
+    "name": "收款码",
+    "description": "微信个人收款码手表展示。请先安装 QRPay-Import 插件导入图片；本应用只在本机保存和显示。",
+    "preview": [
+      "screenshot-empty.png",
+      "screenshot-qr.png",
+      "screenshot-delete.png"
+    ],
+    "icon": "icon.png",
+    "cover": "cover.png",
+    "author": [
+      {
+        "name": "FIB-Wyx",
+        "author_url": "https://github.com/FIB-Wyx"
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw6": {
+      "version": "1.0.6",
+      "file_name": "com.vela.qrpay.debug.1.0.6.rpk"
+    }
+  },
+  "ext": {}
+}
